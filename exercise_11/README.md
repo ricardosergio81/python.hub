@@ -14,7 +14,7 @@ Options:
 
 - [ ] 23
 
-- [X] 24
+- [ ] 24
 
 
 ##Explanation
